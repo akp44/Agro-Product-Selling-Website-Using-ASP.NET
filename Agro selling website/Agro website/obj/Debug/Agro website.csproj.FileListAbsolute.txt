@@ -1,0 +1,12 @@
+C:\Users\vikash singh\Downloads\Documents\asp\Agro website\Agro website\bin\Agro website.dll
+C:\Users\vikash singh\Downloads\Documents\asp\Agro website\Agro website\bin\Agro website.pdb
+C:\Users\vikash singh\Downloads\Documents\asp\Agro website\Agro website\obj\Debug\Agro website.csprojResolveAssemblyReference.cache
+C:\Users\vikash singh\Downloads\Documents\asp\Agro website\Agro website\obj\Debug\Agro website.dll
+C:\Users\vikash singh\Downloads\Documents\asp\Agro website\Agro website\obj\Debug\Agro website.pdb
+C:\Desktop\Agro website website1\Agro website\bin\Agro website.dll
+C:\Desktop\Agro website website1\Agro website\bin\Agro website.pdb
+C:\Desktop\Agro website website1\Agro website\obj\Debug\Agro website.csprojResolveAssemblyReference.cache
+C:\Desktop\Agro website website1\Agro website\obj\Debug\Agro website.dll
+C:\Desktop\Agro website website1\Agro website\obj\Debug\Agro website.pdb
+C:\Users\deadR00T\Desktop\Agro selling website\Agro website\obj\Debug\Agro website.csprojResolveAssemblyReference.cache
+C:\Users\deadR00T\Desktop\Agro selling website\Agro website\obj\Debug\Agro website.dll
